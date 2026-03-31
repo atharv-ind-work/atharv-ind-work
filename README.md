@@ -95,13 +95,21 @@
 ## 📊 GitHub Stats 🚀
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharv-ind-work&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=atharv-ind-work&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=atharv-ind-work&theme=tokyonight" />
+  <img 
+    src="https://streak-stats.demolab.com?user=atharv-ind-work&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atharv-ind-work&label=Profile%20views&color=0e75b6&style=flat" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=atharv-ind-work&label=Profile%20views&color=0e75b6&style=flat" 
+  />
 </p>
