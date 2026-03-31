@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="mailto:bargeatharv1410@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Atharv-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -92,7 +92,7 @@
 
 ---
 
-## 📊 GitHub Stats (Growing 🚀)
+## 📊 GitHub Stats 🚀
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atharv-ind-work&show_icons=true&theme=tokyonight" />
