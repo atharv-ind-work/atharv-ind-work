@@ -57,6 +57,7 @@
 ![Proteus](https://img.shields.io/badge/Proteus-009688?style=for-the-badge)
 ![Valgrind](https://img.shields.io/badge/Valgrind-7B1FA2?style=for-the-badge)
 ![GDB](https://img.shields.io/badge/GDB-455A64?style=for-the-badge)
+![CANoe](https://img.shields.io/badge/CANoe-E95420?style=for-the-badge)
 
 ---
 
