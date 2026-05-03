@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Atharv Barge
 
-<h3 align="center">Embedded Systems Enthusiast</h3>
+<h3 align="center">Aspiring Embedded Systems Engineer | Trainee at Vector India</h3>
 
 <p align="center">
 📍 Bengaluru, India  
@@ -10,11 +10,11 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently learning **ARM Controllers & Embedded Systems**
-- 🌱 Exploring **UART, I2C, SPI, CAN Protocols**
+- 🔭 Building real-time embedded systems on **ARM7 (LPC2129)**
+- 🌱 Hands-on experience with **CAN, UART, SPI, and I2C protocols**
 - 💻 Working with **Embedded C, C, C++**
-- ⚡ Interested in **IoT Systems & Automotive Electronics**
-- 🎯 Goal: **Full-time role in Electronics/Firmware & building real-world hardware products**
+- ⚡ Targeting full-time roles in **Automotive Embedded & Firmware Development**
+- 🎯  Open to full-time opportunities in Embedded Systems & Firmware Development — **Pune, Bangalore, Hyderabad**
 
 ---
 
@@ -28,10 +28,9 @@
 ---
 
 ### 🔌 Hardware Platforms
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge)
 ![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge)
 ![LPC2129](https://img.shields.io/badge/LPC2129-555555?style=for-the-badge)
+![8051](https://img.shields.io/badge/8051-00979D?style=for-the-badge)
 
 ---
 
@@ -56,16 +55,15 @@
 ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge)
 ![Proteus](https://img.shields.io/badge/Proteus-009688?style=for-the-badge)
 ![Valgrind](https://img.shields.io/badge/Valgrind-7B1FA2?style=for-the-badge)
-![GDB](https://img.shields.io/badge/GDB-455A64?style=for-the-badge)
 ![CANoe](https://img.shields.io/badge/CANoe-E95420?style=for-the-badge)
 
 ---
 
 ## 🚀 What I'm Working On
 
-- 🔧 Building real-world embedded & hardware projects  
-- 📂 Creating repositories to showcase implementations  
-- ⚡ Improving DSA & system-level thinking  
+- 🔧 Building a CAN-Based Reverse Parking Assistance System on ARM7 LPC2129 
+- 📂 Documenting embedded projects with proper READMEs and hardware setups
+- ⚡  Improving DSA and low-level C skills for embedded interviews
 
 ---
 
@@ -90,7 +88,7 @@
 
 ## ⚡ Fun Fact
 
-- I enjoy turning circuit diagrams into real working hardware 🔥
+ **I enjoy turning circuit diagrams into real working hardware** 🔥
 
 ---
 
